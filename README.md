@@ -9,6 +9,8 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [MAPS](#maps)
   - [Customs](#customs)
 - [Databases](#databases)
+  - [Ammo](#ammo)
+  - [Market](#market)
 - [Quests](#quests)
 - [YouTube Guides](#youtube-guides)
   - [Beginner](#beginner)
@@ -20,7 +22,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [Official Maps](https://escapefromtarkov.gamepedia.com/Map_of_Tarkov)
 - [Gamemaps.co.uk](https://www.gamemaps.co.uk/game/tarkov/)
 - [Mapgenie.io](https://mapgenie.io/tarkov)
-- [eftmkg.com](https://eftmkg.com)
+- [Escape from Tarkov Map Key Guide](https://eftmkg.com)
 
 ### Customs
 - [Orientation](https://www.gamemaps.co.uk/game/tarkov/maps/customs_3d_maksen_marvelin_2019)
@@ -37,9 +39,14 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ### Ammo
 - [kokarn Github - Ammo graph](https://kokarn.github.io/tarkov-tools/)
+- [Graphical ammo charts](https://eftmkg.com/tips-ammo.html)
+
+### Market
+- [Tarkov Barter Helper by Sheiddy](https://tarkov.sheiddy.com/)
 
 ## Quests
 - [Searchable list of all quest and hideout upgrade items](https://www.reddit.com/r/EscapefromTarkov/comments/gtqn6c/searchable_list_of_all_quest_and_hideout_upgrade/)
+- [Graphical list of quest items](https://eftmkg.com/tips-quest.html)
 
 ## YouTube Guides
 ### Beginner

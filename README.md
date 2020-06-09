@@ -7,6 +7,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 - [Wiki](#wiki's)
 - [MAPS](#maps)
+- [Databases](#databases)
 
 ## Wiki
 - [Official Wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki)
@@ -14,7 +15,21 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ## MAPS
 - [Official Maps](https://escapefromtarkov.gamepedia.com/Map_of_Tarkov)
-- 
+- [Gamemaps.co.uk](https://www.gamemaps.co.uk/game/tarkov/)
+- [Mapgenie.io](https://mapgenie.io/tarkov)
+- [eftmkg.com](https://eftmkg.com)
+
 ### Customs
-- [Orientation]()
-- [Looting]()
+- [Orientation](https://www.gamemaps.co.uk/game/tarkov/maps/customs_3d_maksen_marvelin_2019)
+- [Looting 1](https://mapgenie.io/tarkov/maps/customs)
+- [Looting 2](https://eftmkg.com/customs-full.html)
+
+## Databases
+- [NoFoodAfterMidnight's EFT Ammo and Armor Charts](https://docs.google.com/spreadsheets/d/1jjWcIue0_PCsbLQAiL5VrIulPK8SzM5jjiCMx9zUuvE/htmlview)
+- [Tarkov Hideout Requirements - Created by: DYGR](https://docs.google.com/spreadsheets/d/1JKzVRr6Ky8QO559YmTNgs5UbWMm3cfI2gO68XVTr3gc/htmlview?pru=AAABcri8P04*lAjnQTxwKZkT2SLqfB7DlQ#gid=1570378612)
+- [](https://kokarn.github.io/tarkov-tools/)
+- [**OUT OF DATE** - Escape From Tarkov Database](https://www.eftdb.one/)
+- [EFT Loot Goblin](https://eft-loot.com/)
+
+### Ammo
+- [kokarn Github - Ammo graph](https://kokarn.github.io/tarkov-tools/)

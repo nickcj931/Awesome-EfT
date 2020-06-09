@@ -13,6 +13,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
   - [Weapons and attachments](#weapons-and-attachments)
   - [Ammo](#ammo)
   - [Market](#market)
+  - [Hideout](#hideout)
 - [Quests](#quests)
 - [YouTube Guides](#youtube-guides)
   - [Beginner](#beginner)
@@ -35,12 +36,12 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ## Tools
 ### Core Databases
-- [Tarkov Hideout Requirements - Created by: DYGR](https://docs.google.com/spreadsheets/d/1JKzVRr6Ky8QO559YmTNgs5UbWMm3cfI2gO68XVTr3gc/htmlview?pru=AAABcri8P04*lAjnQTxwKZkT2SLqfB7DlQ#gid=1570378612)
 - [**OUT OF DATE** - Escape From Tarkov Database](https://www.eftdb.one/)
 - [EFT Loot Goblin](https://eft-loot.com/)
 
 ### Weapons and attachments
 - [Magazines and Ammo compatibility](https://mapgenie.io/tarkov/guides/ammo-tool-16)
+
 ### Ammo
 - [kokarn Github - Ammo graph](https://kokarn.github.io/tarkov-tools/)
 - [Graphical ammo charts](https://eftmkg.com/tips-ammo.html)
@@ -48,6 +49,9 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ### Market
 - [Tarkov Barter Helper by Sheiddy](https://tarkov.sheiddy.com/)
+
+### Hideout
+- [Tarkov Hideout Requirements - Created by: DYGR](https://docs.google.com/spreadsheets/d/1JKzVRr6Ky8QO559YmTNgs5UbWMm3cfI2gO68XVTr3gc/htmlview?pru=AAABcri8P04*lAjnQTxwKZkT2SLqfB7DlQ#gid=1570378612)
 
 ## Quests
 - [Searchable list of all quest and hideout upgrade items](https://www.reddit.com/r/EscapefromTarkov/comments/gtqn6c/searchable_list_of_all_quest_and_hideout_upgrade/)

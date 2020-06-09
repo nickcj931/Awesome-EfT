@@ -8,7 +8,9 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [Wiki](#wiki's)
 - [MAPS](#maps)
   - [Customs](#customs)
-- [Databases](#databases)
+- [Tools](#tools)
+  - [Core Databases](#core-databases)
+  - [Weapons and attachments](#weapons-and-attachments)
   - [Ammo](#ammo)
   - [Market](#market)
 - [Quests](#quests)
@@ -31,15 +33,18 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ### Further maps to be added
 
-## Databases
-- [NoFoodAfterMidnight's EFT Ammo and Armor Charts](https://docs.google.com/spreadsheets/d/1jjWcIue0_PCsbLQAiL5VrIulPK8SzM5jjiCMx9zUuvE/htmlview)
+## Tools
+### Core Databases
 - [Tarkov Hideout Requirements - Created by: DYGR](https://docs.google.com/spreadsheets/d/1JKzVRr6Ky8QO559YmTNgs5UbWMm3cfI2gO68XVTr3gc/htmlview?pru=AAABcri8P04*lAjnQTxwKZkT2SLqfB7DlQ#gid=1570378612)
 - [**OUT OF DATE** - Escape From Tarkov Database](https://www.eftdb.one/)
 - [EFT Loot Goblin](https://eft-loot.com/)
 
+### Weapons and attachments
+- [Magazines and Ammo compatibility](https://mapgenie.io/tarkov/guides/ammo-tool-16)
 ### Ammo
 - [kokarn Github - Ammo graph](https://kokarn.github.io/tarkov-tools/)
 - [Graphical ammo charts](https://eftmkg.com/tips-ammo.html)
+- [NoFoodAfterMidnight's EFT Ammo and Armor Charts](https://docs.google.com/spreadsheets/d/1jjWcIue0_PCsbLQAiL5VrIulPK8SzM5jjiCMx9zUuvE/htmlview)
 
 ### Market
 - [Tarkov Barter Helper by Sheiddy](https://tarkov.sheiddy.com/)
@@ -47,6 +52,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 ## Quests
 - [Searchable list of all quest and hideout upgrade items](https://www.reddit.com/r/EscapefromTarkov/comments/gtqn6c/searchable_list_of_all_quest_and_hideout_upgrade/)
 - [Graphical list of quest items](https://eftmkg.com/tips-quest.html)
+- [Quest list and Flow chart](https://mapgenie.io/tarkov/guides/quests-17)
 
 ## YouTube Guides
 ### Beginner

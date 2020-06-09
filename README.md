@@ -43,6 +43,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [Magazines and Ammo compatibility](https://mapgenie.io/tarkov/guides/ammo-tool-16)
 
 ### Ammo
+- [Ammo Analyzer](https://escape-tarkov.herokuapp.com/ammo)
 - [kokarn Github - Ammo graph](https://kokarn.github.io/tarkov-tools/)
 - [Graphical ammo charts](https://eftmkg.com/tips-ammo.html)
 - [NoFoodAfterMidnight's EFT Ammo and Armor Charts](https://docs.google.com/spreadsheets/d/1jjWcIue0_PCsbLQAiL5VrIulPK8SzM5jjiCMx9zUuvE/htmlview)

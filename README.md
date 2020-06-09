@@ -36,8 +36,8 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ## Tools
 ### Core Databases
-- [**OUT OF DATE** - Escape From Tarkov Database](https://www.eftdb.one/)
 - [EFT Loot Goblin](https://eft-loot.com/)
+- [**OUT OF DATE** - Escape From Tarkov Database](https://www.eftdb.one/)
 
 ### Weapons and attachments
 - [Magazines and Ammo compatibility](https://mapgenie.io/tarkov/guides/ammo-tool-16)

@@ -48,6 +48,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [NoFoodAfterMidnight's EFT Ammo and Armor Charts](https://docs.google.com/spreadsheets/d/1jjWcIue0_PCsbLQAiL5VrIulPK8SzM5jjiCMx9zUuvE/htmlview)
 
 ### Market
+- [Tarkov - flea market - prices](https://tarkov-market.com/)
 - [Tarkov Barter Helper by Sheiddy](https://tarkov.sheiddy.com/)
 
 ### Hideout

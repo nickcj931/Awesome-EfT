@@ -32,7 +32,6 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 ## Databases
 - [NoFoodAfterMidnight's EFT Ammo and Armor Charts](https://docs.google.com/spreadsheets/d/1jjWcIue0_PCsbLQAiL5VrIulPK8SzM5jjiCMx9zUuvE/htmlview)
 - [Tarkov Hideout Requirements - Created by: DYGR](https://docs.google.com/spreadsheets/d/1JKzVRr6Ky8QO559YmTNgs5UbWMm3cfI2gO68XVTr3gc/htmlview?pru=AAABcri8P04*lAjnQTxwKZkT2SLqfB7DlQ#gid=1570378612)
-- [](https://kokarn.github.io/tarkov-tools/)
 - [**OUT OF DATE** - Escape From Tarkov Database](https://www.eftdb.one/)
 - [EFT Loot Goblin](https://eft-loot.com/)
 

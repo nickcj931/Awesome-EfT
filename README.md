@@ -9,6 +9,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [MAPS](#maps)
   - [Customs](#customs)
   - [Interchange](#interchange)
+  - [Shoreline](#shoreline]
 - [Tools](#tools)
   - [Core Databases](#core-databases)
   - [Weapons and attachments](#weapons-and-attachments)
@@ -39,7 +40,10 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [Orientation 1](https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/InterchangeMap_Updated_4.24.2020.png?version=c1114bd10889074ca8c8d85e3d1fb04b)
 - [Looting 1](https://mapgenie.io/tarkov/maps/interchange)
 
-### Further maps to be added
+### Shoreline
+- [Orientation 1](https://www.gamemaps.co.uk/game/tarkov/maps/shoreline_3d_maksen)
+- [Loot 1](https://mapgenie.io/tarkov/maps/shoreline)
+- [Loot 2](https://eftmkg.com/shoreline-full.html)
 
 ## Tools
 ### Core Databases

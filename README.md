@@ -8,6 +8,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [Wiki](#wiki's)
 - [MAPS](#maps)
   - [Customs](#customs)
+  - [Interchange](#interchange)
 - [Tools](#tools)
   - [Core Databases](#core-databases)
   - [Weapons and attachments](#weapons-and-attachments)
@@ -29,9 +30,14 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [Escape from Tarkov Map Key Guide](https://eftmkg.com)
 
 ### Customs
-- [Orientation](https://www.gamemaps.co.uk/game/tarkov/maps/customs_3d_maksen_marvelin_2019)
+- [Orientation 1](https://www.gamemaps.co.uk/game/tarkov/maps/customs_3d_maksen_marvelin_2019)
 - [Looting 1](https://mapgenie.io/tarkov/maps/customs)
 - [Looting 2](https://eftmkg.com/customs-full.html)
+- [Orientation 2](https://i.redd.it/3csmrp3qm3l01.jpg)
+
+### Interchange
+- [Orientation 1](https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/InterchangeMap_Updated_4.24.2020.png?version=c1114bd10889074ca8c8d85e3d1fb04b)
+- [Looting 1](https://mapgenie.io/tarkov/maps/interchange)
 
 ### Further maps to be added
 
@@ -45,6 +51,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [SW_Tower's accuracy and scope guide](https://docs.google.com/spreadsheets/d/1vtQaVgM76nqadRMhwDwGnOAeBucLIlL0lw8gaaHu5wA/edit?fbclid=IwAR3iOwUPZts9JPYT8ynSqD1oBPV4sOX8638SfAWnlyw5rB0soD5m3cq4mDw#gid=0)
 
 ### Ammo
+- [Braindead simple! version 2.0](https://www.gamemaps.co.uk/game/tarkov/maps/ammo_charts_ez)
 - [Ammo Analyzer](https://escape-tarkov.herokuapp.com/ammo)
 - [kokarn Github - Ammo graph](https://kokarn.github.io/tarkov-tools/)
 - [Graphical ammo charts](https://eftmkg.com/tips-ammo.html)

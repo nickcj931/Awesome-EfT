@@ -77,5 +77,6 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 ## YouTube Guides
 ### Beginner
 - [**JesseKazam** - Complete Escape From Tarkov Beginners Guide! - Patch 12.6 - May 2020](https://www.youtube.com/watch?v=MBd1DSQI2BY&t=532s)
+- [**JesseKazam** - Shoreline Map Guide! - Escape From Tarkov Beginners Guide](https://www.youtube.com/watch?v=6OylRchlpdc)
 - [Stash management tips](https://discordapp.com/channels/399667456676724757/704303230682792017/720039114782539848)
 - [https://www.youtube.com/watch?v=5MHmARGwuKU](https://www.youtube.com/watch?v=5MHmARGwuKU)

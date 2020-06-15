@@ -9,7 +9,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [MAPS](#maps)
   - [Customs](#customs)
   - [Interchange](#interchange)
-  - [Shoreline](#shoreline]
+  - [Shoreline](#shoreline)
 - [Tools](#tools)
   - [Core Databases](#core-databases)
   - [Weapons and attachments](#weapons-and-attachments)

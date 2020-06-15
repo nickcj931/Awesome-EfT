@@ -20,6 +20,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ## Wiki
 - [Official Wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki)
+- [Types of containers](https://escapefromtarkov.gamepedia.com/Containers)
 
 ## MAPS
 - [Official Maps](https://escapefromtarkov.gamepedia.com/Map_of_Tarkov)

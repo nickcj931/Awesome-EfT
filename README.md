@@ -56,6 +56,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ### Hideout
 - [Tarkov Hideout Requirements - Created by: DYGR](https://docs.google.com/spreadsheets/d/1JKzVRr6Ky8QO559YmTNgs5UbWMm3cfI2gO68XVTr3gc/htmlview?pru=AAABcri8P04*lAjnQTxwKZkT2SLqfB7DlQ#gid=1570378612)
+- [Graphical - Items to keep](https://escapefromtarkov.gamepedia.com/File:Hideout-Requirements-Items-to-Keep.jpg)
 
 ## Quests
 - [Searchable list of all quest and hideout upgrade items](https://www.reddit.com/r/EscapefromTarkov/comments/gtqn6c/searchable_list_of_all_quest_and_hideout_upgrade/)

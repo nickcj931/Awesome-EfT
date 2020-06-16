@@ -53,6 +53,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 ### Weapons and attachments
 - [Magazines and Ammo compatibility](https://mapgenie.io/tarkov/guides/ammo-tool-16)
 - [SW_Tower's accuracy and scope guide](https://docs.google.com/spreadsheets/d/1vtQaVgM76nqadRMhwDwGnOAeBucLIlL0lw8gaaHu5wA/edit?fbclid=IwAR3iOwUPZts9JPYT8ynSqD1oBPV4sOX8638SfAWnlyw5rB0soD5m3cq4mDw#gid=0)
+- [Weapon builds - Virion's Weapon Modding Guide](https://docs.google.com/spreadsheets/d/1yHyVEVB5oN0qL_pR1qTNP1_ICmzJ3SCFJQNb6XDM_DQ/edit#gid=0)
 
 ### Ammo
 - [**Braindead simple! version 2.0**](https://www.gamemaps.co.uk/game/tarkov/maps/ammo_charts_ez)

@@ -29,6 +29,7 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [Gamemaps.co.uk](https://www.gamemaps.co.uk/game/tarkov/)
 - [Mapgenie.io](https://mapgenie.io/tarkov)
 - [Escape from Tarkov Map Key Guide](https://eftmkg.com)
+- [EFT.Tools](https://eft.tools/maps)
 
 ### Customs
 - [Orientation 1](https://www.gamemaps.co.uk/game/tarkov/maps/customs_3d_maksen_marvelin_2019)

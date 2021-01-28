@@ -29,13 +29,13 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 - [Gamemaps.co.uk](https://www.gamemaps.co.uk/game/tarkov/)
 - [Mapgenie.io](https://mapgenie.io/tarkov)
 - [Escape from Tarkov Map Key Guide](https://eftmkg.com)
-- [EFT.Tools](https://eft.tools/maps)
 
 ### Customs
-- [Orientation 1](https://www.gamemaps.co.uk/game/tarkov/maps/customs_3d_maksen_marvelin_2019)
+- [Orientation 1](https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/55/CustomsLargeExpansionGloryMonki.png/revision/latest?cb=20200805222908)
+- [Orientation 2](https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/2021_Customs_by_PaulRIISK.png/revision/latest?cb=20210120002246)
 - [Looting 1](https://mapgenie.io/tarkov/maps/customs)
-- [Looting 2](https://eftmkg.com/customs-full.html)
-- [Orientation 2](https://i.redd.it/3csmrp3qm3l01.jpg)
+- [Looting 2](https://www.gamemaps.co.uk/game/tarkov/maps/customs_clean_monkimonkimonk)
+- [Dorms Detailed](https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/96/DormRoomsMap.jpg/revision/latest?cb=20200328162326)
 
 ### Interchange
 - [Orientation 1](https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/e/e5/InterchangeMap_Updated_4.24.2020.png?version=c1114bd10889074ca8c8d85e3d1fb04b)
@@ -43,13 +43,14 @@ A collection of all the useful community content for the [**Escape from Tarkov**
 
 ### Shoreline
 - [Orientation 1](https://www.gamemaps.co.uk/game/tarkov/maps/shoreline_3d_maksen)
+- [Detailed](https://www.gamemaps.co.uk/game/tarkov/maps/shoreline_clean_monkimonkimonk)
 - [Loot 1](https://mapgenie.io/tarkov/maps/shoreline)
 - [Loot 2](https://eftmkg.com/shoreline-full.html)
 
 ## Tools
 ### Core Databases
 - [EFT Loot Goblin](https://eft-loot.com/)
-- [**OUT OF DATE** - Escape From Tarkov Database](https://www.eftdb.one/)
+- [Escape From Tarkov Database](https://www.eftdb.one/)
 
 ### Weapons and attachments
 - [Magazines and Ammo compatibility](https://mapgenie.io/tarkov/guides/ammo-tool-16)
